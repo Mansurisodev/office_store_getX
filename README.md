@@ -1,4 +1,4 @@
-## office_furniture_store_app
+## Office store app 🏢
 
 <p align="center">
   <img src="https://img.shields.io/github/workflow/status/SinaSys/flutter_office_furniture_store_app/Analyze%20and%20Build?label=CI&logo=github">
