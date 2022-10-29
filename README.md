@@ -28,7 +28,7 @@ Preview                    |   List screen             |   Detail Screen        
 
 ## 🚀 Features :
 ```
-• Three different implementations
+• Three different implementationss
 • Display items on list item screen
 • Display detail of each item on detail screen
 • Hero animation for images when navigate fron list screen to detail screen
