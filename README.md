@@ -27,7 +27,7 @@ There are four different implementations:  1: GetX version , 2: Cubit version 3:
 
 Preview                    |   List screen             |   Detail Screen           |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/preview.gif?raw=true)|![](https://github.com/SinaSys/flutter_office_furniture_store_app/blob/master/screenshots/office_furniture_list_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_office_furniture_store_app/blob/master/screenshots/office_furniture_detail_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_office_furniture_store_app/blob/master/screenshots/cart_screen.png?raw=true)
+![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/preview.gif?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_store_app.jpg?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_list_screen.png?raw=true)|![]([https://github.com/SinaSys/flutter_office_furniture_store_app/blob/master/screenshots/cart_screen.png](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/cart_screen.png)?raw=true)
 
 
   <br/>
