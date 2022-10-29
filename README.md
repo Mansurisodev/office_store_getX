@@ -7,7 +7,7 @@
 </p>
 
 
-Office Furniture Store app is a design implementation of [Office Furniture Store app](https://dribbble.com/shots/16394699-E-commerce-design-concept) designed by [Mansuriosdev](https://github.com/Mansurisodev)
+Office Furniture Store app is a design implementation of Office Furniture Store app() designed by [Mansuriosdev](https://github.com/Mansurisodev)
 
 ![](https://github.com/SinaSys/flutter_office_furniture_store_app/blob/master/screenshots/office_furniture_store_app.jpg?raw=true)
 
