@@ -18,7 +18,7 @@ Office Furniture Store app is a design implementation of Office Furniture Store 
 
 Preview                    |   List screen             |   Detail Screen           |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/preview.gif?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_list_screen.png?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_detail_screen.png?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/cart_screen.png?raw=true)
+![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_store_app.jpg?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_list_screen.png?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_detail_screen.png?raw=true)|![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/cart_screen.png?raw=true)
 
 
   <br/>
