@@ -256,12 +256,7 @@ I welcome and encourage all pull requests. It usually will take me within 48-72 
 
 ## Created & Maintained By
 
-[SinaSys](https://github.com/SinaSys)
+[Mansurisodev](https://github.com/Mansurisodev)
 
   <br/>
 
-## My other flutter projects
-project        |
-:-------------------------|
-|[Japanese restaurant app](https://github.com/SinaSys/flutter_japanese_restaurant_app)
-|[Ecommerce app](https://github.com/SinaSys/flutter_ecommerce_app)
