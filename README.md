@@ -10,12 +10,7 @@ Office Furniture Store app is a design implementation of Office Furniture Store 
 
   <br/>
 
-## GetX | Cubit | Bloc | Provider
-There are four different implementations:  1: GetX version , 2: Cubit version 3: Bloc version , 4: Provider version <br/>
-• You can access GetX version from ```master branch``` [(here)](https://github.com/SinaSys/flutter_office_furniture_store_app/tree/master) <br/>
-• You can access Cubit version from ```cubit branch``` [(here)](https://github.com/SinaSys/flutter_office_furniture_store_app/tree/cubit)<br/>
-• You can access Bloc version from ```bloc branch``` [(here)](https://github.com/SinaSys/flutter_office_furniture_store_app/tree/bloc)<br/>
-• You can access Provider version from ```provider branch``` [(here)](https://github.com/SinaSys/flutter_office_furniture_store_app/tree/provider)<br/>
+
 
  <br/>
 
