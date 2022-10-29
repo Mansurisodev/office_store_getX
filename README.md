@@ -9,7 +9,7 @@
 
 Office Furniture Store app is a design implementation of Office Furniture Store app designed by [Mansuriosdev](https://github.com/Mansurisodev)
 
-![](https://github.com/SinaSys/flutter_office_furniture_store_app/blob/master/screenshots/office_furniture_store_app.jpg?raw=true)
+![](https://github.com/Mansurisodev/office_store_getX/blob/origin/screenshots/office_furniture_list_screen.png?raw=true)
 
 
   <br/>
